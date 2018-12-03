@@ -1,0 +1,324 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "aos-1-1.c",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "aoc-1-1-input.txt",
+			"settings":
+			{
+				"buffer_size": 3675,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "-7"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 353.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ui co",
+				"UI: Select Color Scheme"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"cfml",
+				"CFML: Toggle Color Scheme Styles"
+			],
+			[
+				"theme",
+				"Boxy Theme: Activation"
+			],
+			[
+				"font",
+				"FontCycler - Next Font"
+			],
+			[
+				"settngs",
+				"Sync Settings: Show Logs"
+			]
+		],
+		"width": 434.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mjhagen/Dropbox/Projects/AoC/test-1.py",
+		"/Users/mjhagen/Dropbox/HMMH/kerstfilms-2017-mjh.md",
+		"/Users/mjhagen/Dropbox/HMMH/Han film.rtf",
+		"/Users/mjhagen/Dropbox/Projects/AoC/aoc.sublime-project",
+		"/Users/mjhagen/config_p8p67-560ti.plist",
+		"/Volumes/CLOVER EFI/EFI/CLOVER/config.plist",
+		"/Users/mjhagen/config_original.plist",
+		"/Users/mjhagen/config_p8p67-560ti.xml",
+		"/Users/mjhagen/Dropbox/Projects/mustang-shared/services/queryService.cfc",
+		"/Users/mjhagen/Dropbox/Projects/mustang-shared/sftp-config.json",
+		"/Users/mjhagen/Dropbox/Projects/cava/services/unirest.cfc",
+		"/Users/mjhagen/Dropbox/Projects/mustang-shared/services/asyncQueue.cfc",
+		"/Users/mjhagen/Dropbox/Projects/mustang-shared/services/utility.cfc",
+		"/Users/mjhagen/Downloads/Roxio.Toast.Titanium.v11.0.2.MAC.OSX-HOTiSO/hotiso.nfo",
+		"/Users/mjhagen/Dropbox/Projects/basecfc/base.cfc",
+		"/Users/mjhagen/Dropbox/Projects/mustang-shared/base.cfc",
+		"/Users/mjhagen/Dropbox/Projects/mustang-shared/mustang.cfc",
+		"/Users/mjhagen/Dropbox/Projects/cava/services/soap.cfc",
+		"/Users/mjhagen/Dropbox/Projects/cava/services/nativeHttp.cfc",
+		"/Users/mjhagen/Downloads/ClientWithResponseHandler.java",
+		"/Users/mjhagen/Dropbox/Projects/tent.eu/tent-2017/sftp-config.json",
+		"/Users/mjhagen/Dropbox/Projects/tent.eu/tent-2017/views/elements/nav-languages.cfm",
+		"/Users/mjhagen/Dropbox/Projects/tent.eu/tent-2017/layouts/main.cfm",
+		"/Users/mjhagen/Dropbox/Projects/tent.eu/tent-2017/model/services/calendar.cfc",
+		"/Users/mjhagen/Dropbox/Projects/tent.eu/tent-2017/www/Application.cfc",
+		"/Users/mjhagen/Library/Application Support/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/Users/mjhagen/.sync-settings.log",
+		"/Users/mjhagen/Library/Application Support/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "aos-1-1.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "aoc-1-1-input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "-7",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "aoc.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
